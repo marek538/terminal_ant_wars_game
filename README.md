@@ -50,4 +50,4 @@ save -save game\n
 exit -exit\n
 
 ### Class diagram
-![diagram trid](class_diagram.png "Diagram")
+![diagram trid](ant_wars/doc/class_diagram.png "Diagram")
